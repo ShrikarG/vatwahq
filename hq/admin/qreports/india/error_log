@@ -1,0 +1,4 @@
+[17-Jul-2018 13:52:52 UTC] PHP Notice:  Undefined variable: role in /home/vatsimwa/hq.vatsimwa.com/admin/qreports/india/index.php on line 6
+[17-Jul-2018 13:52:52 UTC] PHP Notice:  Undefined variable: vatsimid in /home/vatsimwa/hq.vatsimwa.com/admin/qreports/india/index.php on line 297
+[17-Jul-2018 14:08:43 UTC] PHP Notice:  Undefined variable: role in /home/vatsimwa/hq.vatsimwa.com/admin/qreports/india/index.php on line 6
+[17-Jul-2018 14:08:43 UTC] PHP Notice:  Undefined variable: vatsimid in /home/vatsimwa/hq.vatsimwa.com/admin/qreports/india/index.php on line 297

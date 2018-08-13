@@ -1,0 +1,7 @@
+[04-Jun-2018 12:26:21 UTC] PHP Warning:  include(../header.php): failed to open stream: No such file or directory in /home/vatsimwa/hq.vatsimwa.com/division/credits/index.php on line 2
+[04-Jun-2018 12:26:21 UTC] PHP Warning:  include(): Failed opening '../header.php' for inclusion (include_path='.:/opt/alt/php56/usr/share/pear:/opt/alt/php56/usr/share/php') in /home/vatsimwa/hq.vatsimwa.com/division/credits/index.php on line 2
+[14-Jun-2018 05:36:16 UTC] PHP Warning:  simplexml_load_file(): SSL: Handshake timed out in /home/vatsimwa/hq.vatsimwa.com/header.php on line 25
+[14-Jun-2018 05:36:16 UTC] PHP Warning:  simplexml_load_file(): Failed to enable crypto in /home/vatsimwa/hq.vatsimwa.com/header.php on line 25
+[14-Jun-2018 05:36:16 UTC] PHP Warning:  simplexml_load_file(https://cert.vatsim.net/cert/vatsimnet/idstatus.php?cid=1354481): failed to open stream: operation failed in /home/vatsimwa/hq.vatsimwa.com/header.php on line 25
+[14-Jun-2018 05:36:16 UTC] PHP Warning:  simplexml_load_file(): I/O warning : failed to load external entity &quot;https://cert.vatsim.net/cert/vatsimnet/idstatus.php?cid=1354481&quot; in /home/vatsimwa/hq.vatsimwa.com/header.php on line 25
+[14-Jun-2018 05:36:16 UTC] PHP Notice:  Trying to get property of non-object in /home/vatsimwa/hq.vatsimwa.com/header.php on line 26

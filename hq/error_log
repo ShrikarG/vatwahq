@@ -1,0 +1,11 @@
+[03-Jun-2018 10:59:24 UTC] PHP Notice:  Undefined index: HTTP_REFERER in /home/vatsimwa/hq.vatsimwa.com/index.php on line 3
+[03-Jun-2018 11:01:27 UTC] PHP Notice:  Undefined index: HTTP_REFERER in /home/vatsimwa/hq.vatsimwa.com/index.php on line 6
+[03-Jun-2018 11:11:04 UTC] PHP Notice:  Undefined index: HTTP_REFERER in /home/vatsimwa/hq.vatsimwa.com/index.php on line 6
+[09-Jun-2018 06:04:44 UTC] PHP Parse error:  syntax error, unexpected '");' (T_CONSTANT_ENCAPSED_STRING), expecting ')' in /home/vatsimwa/hq.vatsimwa.com/login.php on line 9
+[09-Jun-2018 08:16:54 UTC] PHP Notice:  Undefined variable: admin in /home/vatsimwa/hq.vatsimwa.com/login.php on line 71
+[09-Jun-2018 08:16:54 UTC] PHP Warning:  in_array() expects parameter 2 to be array, null given in /home/vatsimwa/hq.vatsimwa.com/login.php on line 71
+[09-Jun-2018 08:56:26 UTC] PHP Notice:  Undefined variable: tdmin in /home/vatsimwa/hq.vatsimwa.com/login.php on line 72
+[09-Jun-2018 08:56:26 UTC] PHP Warning:  in_array() expects parameter 2 to be array, null given in /home/vatsimwa/hq.vatsimwa.com/login.php on line 72
+[09-Jun-2018 09:01:24 UTC] PHP Notice:  Undefined variable: tdmin in /home/vatsimwa/hq.vatsimwa.com/login.php on line 72
+[09-Jun-2018 09:01:24 UTC] PHP Warning:  in_array() expects parameter 2 to be array, null given in /home/vatsimwa/hq.vatsimwa.com/login.php on line 72
+[25-Jun-2018 11:03:11 UTC] PHP Catchable fatal error:  Object of class stdClass could not be converted to string in /home/vatsimwa/hq.vatsimwa.com/login.php on line 97

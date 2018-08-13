@@ -1,0 +1,7 @@
+[12-Jun-2018 12:27:19 UTC] PHP Notice:  Undefined variable: role in /home/vatsimwa/hq.vatsimwa.com/admin/training/notes/add/index.php on line 5
+[12-Jun-2018 12:27:19 UTC] PHP Notice:  Undefined variable: vatsimid in /home/vatsimwa/hq.vatsimwa.com/admin/training/notes/add/index.php on line 74
+[13-Jun-2018 11:46:45 UTC] PHP Notice:  Undefined variable: role in /home/vatsimwa/hq.vatsimwa.com/admin/training/notes/add/index.php on line 5
+[13-Jun-2018 11:46:45 UTC] PHP Notice:  Undefined variable: vatsimid in /home/vatsimwa/hq.vatsimwa.com/admin/training/notes/add/index.php on line 21
+[13-Jun-2018 11:46:45 UTC] PHP Fatal error:  Call to a member function bind_param() on boolean in /home/vatsimwa/hq.vatsimwa.com/admin/training/notes/add/index.php on line 28
+[19-Jun-2018 18:28:57 UTC] PHP Notice:  Undefined variable: role in /home/vatsimwa/hq.vatsimwa.com/admin/training/notes/add/index.php on line 5
+[19-Jun-2018 18:28:57 UTC] PHP Notice:  Undefined variable: vatsimid in /home/vatsimwa/hq.vatsimwa.com/admin/training/notes/add/index.php on line 74

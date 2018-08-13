@@ -1,0 +1,20 @@
+[18-Jun-2018 16:13:02 UTC] PHP Notice:  Undefined variable: icao in /home/vatsimwa/hq.vatsimwa.com/notams/index.php on line 20
+[18-Jun-2018 16:13:03 UTC] PHP Warning:  file_get_contents(http://api.vateud.net/notams/.json): failed to open stream: HTTP request failed! HTTP/1.1 404 Not Found
+ in /home/vatsimwa/hq.vatsimwa.com/notams/index.php on line 31
+[18-Jun-2018 16:13:03 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/vatsimwa/hq.vatsimwa.com/notams/index.php on line 33
+[18-Jun-2018 16:13:03 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/vatsimwa/hq.vatsimwa.com/header.php on line 3
+[18-Jun-2018 16:13:40 UTC] PHP Notice:  Undefined variable: icao in /home/vatsimwa/hq.vatsimwa.com/notams/index.php on line 20
+[18-Jun-2018 16:13:41 UTC] PHP Warning:  file_get_contents(http://api.vateud.net/notams/.json): failed to open stream: HTTP request failed! HTTP/1.1 404 Not Found
+ in /home/vatsimwa/hq.vatsimwa.com/notams/index.php on line 30
+[18-Jun-2018 16:13:41 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/vatsimwa/hq.vatsimwa.com/notams/index.php on line 32
+[18-Jun-2018 16:13:41 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/vatsimwa/hq.vatsimwa.com/header.php on line 3
+[18-Jun-2018 16:14:02 UTC] PHP Notice:  Undefined variable: icao in /home/vatsimwa/hq.vatsimwa.com/notams/index.php on line 20
+[18-Jun-2018 16:14:02 UTC] PHP Warning:  file_get_contents(http://api.vateud.net/notams/.json): failed to open stream: HTTP request failed! HTTP/1.1 404 Not Found
+ in /home/vatsimwa/hq.vatsimwa.com/notams/index.php on line 30
+[18-Jun-2018 16:14:02 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/vatsimwa/hq.vatsimwa.com/notams/index.php on line 32
+[18-Jun-2018 16:14:16 UTC] PHP Notice:  Undefined variable: icao in /home/vatsimwa/hq.vatsimwa.com/notams/index.php on line 20
+[18-Jun-2018 16:14:16 UTC] PHP Warning:  file_get_contents(http://api.vateud.net/notams/.json): failed to open stream: HTTP request failed! HTTP/1.1 404 Not Found
+ in /home/vatsimwa/hq.vatsimwa.com/notams/index.php on line 30
+[18-Jun-2018 16:14:16 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/vatsimwa/hq.vatsimwa.com/notams/index.php on line 32
+[18-Jun-2018 16:14:27 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/vatsimwa/hq.vatsimwa.com/notams/index.php on line 32
+[23-Jun-2018 11:06:09 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/vatsimwa/hq.vatsimwa.com/notams/index.php on line 32

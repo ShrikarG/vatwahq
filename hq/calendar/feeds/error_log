@@ -1,0 +1,1 @@
+[02-Jul-2018 18:57:15 UTC] PHP Parse error:  syntax error, unexpected ',', expecting identifier (T_STRING) or variable (T_VARIABLE) or '{' or '$' in /home/vatsimwa/hq.vatsimwa.com/calendar/feeds/train.php on line 29

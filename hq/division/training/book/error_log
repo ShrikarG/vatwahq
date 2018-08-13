@@ -1,0 +1,12 @@
+[12-Jun-2018 06:52:30 UTC] PHP Notice:  Undefined index: ins_id in /home/vatsimwa/hq.vatsimwa.com/division/training/book/index.php on line 14
+[12-Jun-2018 06:52:35 UTC] PHP Notice:  Undefined index: ins_id in /home/vatsimwa/hq.vatsimwa.com/division/training/book/index.php on line 14
+[12-Jun-2018 06:57:44 UTC] PHP Notice:  Undefined index: ins_id in /home/vatsimwa/hq.vatsimwa.com/division/training/book/index.php on line 14
+[12-Jun-2018 06:57:44 UTC] PHP Notice:  Undefined variable: headers in /home/vatsimwa/hq.vatsimwa.com/division/training/book/index.php on line 33
+[18-Jun-2018 14:46:04 UTC] PHP Notice:  Undefined index: ins_id in /home/vatsimwa/hq.vatsimwa.com/division/training/book/index.php on line 14
+[18-Jun-2018 14:46:04 UTC] PHP Notice:  Undefined variable: headers in /home/vatsimwa/hq.vatsimwa.com/division/training/book/index.php on line 33
+[18-Jun-2018 14:46:18 UTC] PHP Notice:  Undefined index: ins_id in /home/vatsimwa/hq.vatsimwa.com/division/training/book/index.php on line 14
+[18-Jun-2018 14:46:18 UTC] PHP Notice:  Undefined variable: headers in /home/vatsimwa/hq.vatsimwa.com/division/training/book/index.php on line 33
+[23-Jun-2018 14:15:43 UTC] PHP Notice:  Undefined index: ins_id in /home/vatsimwa/hq.vatsimwa.com/division/training/book/index.php on line 14
+[23-Jun-2018 14:15:43 UTC] PHP Notice:  Undefined variable: headers in /home/vatsimwa/hq.vatsimwa.com/division/training/book/index.php on line 33
+[25-Jun-2018 14:32:43 UTC] PHP Notice:  Undefined index: ins_id in /home/vatsimwa/hq.vatsimwa.com/division/training/book/index.php on line 14
+[25-Jun-2018 14:32:43 UTC] PHP Notice:  Undefined variable: headers in /home/vatsimwa/hq.vatsimwa.com/division/training/book/index.php on line 33

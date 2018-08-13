@@ -1,0 +1,1 @@
+[17-Jul-2018 12:50:01 UTC] PHP Parse error:  syntax error, unexpected ''Location: ../dashboard/);' (T_ENCAPSED_AND_WHITESPACE) in /home/vatsimwa/hq.vatsimwa.com/admin/qreports/insert/q_status.php on line 13

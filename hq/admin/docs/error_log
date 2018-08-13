@@ -1,0 +1,4 @@
+[06-Jun-2018 09:49:19 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/vatsimwa/hq.vatsimwa.com/admin/footer.php on line 2
+[06-Jun-2018 09:49:46 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/vatsimwa/hq.vatsimwa.com/admin/footer.php on line 2
+[10-Jun-2018 06:26:18 UTC] PHP Notice:  Undefined variable: admin in /home/vatsimwa/hq.vatsimwa.com/admin/docs/index.php on line 6
+[10-Jun-2018 06:26:18 UTC] PHP Warning:  in_array() expects parameter 2 to be array, null given in /home/vatsimwa/hq.vatsimwa.com/admin/docs/index.php on line 6
